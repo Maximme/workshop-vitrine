@@ -15,15 +15,25 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+<<<<<<< HEAD
     "react-use": "^17.3.1",
     "styled-components": "^5.3.1",
     "web-vitals": "^1.1.2"
+=======
+    "web-vitals": "^1.1.2",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "ramda": "^0.27.1",
+    "ramda-adjunct": "^2.28.0",
+    "react-query": "^2.26.4",
+    "react-use": "^15.3.4",
+    "styled-components": "^5.2.1"
+>>>>>>> 9f2d1a3c5f12149a14b1e427018ef80e0235a316
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": [
