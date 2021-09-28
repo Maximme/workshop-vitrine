@@ -4,10 +4,10 @@ export const Logo = styled.div`
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    margin: 50px;
+    margin: 30px;
     
 img {
-    height: 6em;
+    height: 2em;
 
 }
 
