@@ -13,13 +13,15 @@ img {
 }
 
 p {
-  font-family: "ubuntu";
+  font-family: 'Roboto', sans-serif;
   font-size: 25px;
   color: #FFFEF6;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 700;
+  text-align: center;
+
 }
 
   @media (min-width: 992px) {

@@ -14,7 +14,7 @@ img {
 }
 
 p {
-  font-family: "ubuntu";
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   color: #FFFEF6;
   display: flex;

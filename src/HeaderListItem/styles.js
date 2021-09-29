@@ -7,7 +7,7 @@ export const List = styled.ul`
     width: 100%;
     list-style: none;
     font-size: 18px;
-    font-family: "Ubuntu";
+    font-family: 'Roboto', sans-serif;
     margin: auto;
 
 a {
