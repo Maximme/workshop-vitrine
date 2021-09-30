@@ -30,7 +30,7 @@ const Donut = () => (
 
 function Example(props) {
   return (
-    <div style={{ }}>
+    <div style={{ marginBottom: "200px"}}>
       <div style={{display: "flex", justifyContent:"center", alignItems:"center"  }}>
         <div style={{ margin: "50px"}}>{props.children}</div>
       </div>

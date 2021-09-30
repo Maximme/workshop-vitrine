@@ -7,9 +7,9 @@ import Waver from "../Waver/index.js";
 import WeAre from "../WeAre/index.js";
 import Metric from "../Metric/index.js";
 
-
 export default function App() {
   return (
+
     <ThemeProvider theme={theme}>
       <Header />
       <Welcome />
@@ -17,9 +17,6 @@ export default function App() {
       <WeAre />
       <Metric />
 
-
-
     </ThemeProvider>
   );
 }
-
