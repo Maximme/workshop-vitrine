@@ -13,15 +13,15 @@ const Donut = () => (
   <div style={{display:"flex", alignItems: "center", justifyContent: "center" }}>
     <Example>
       <CircularProgressbar style={{stroke: "#654377"}}value={percentageFile} text={`${percentageFile}%`} />
-      <p className="name">Blocked Files</p>
+      <p className="name">Fichiers bloqués</p>
     </Example>   
     <Example>
       <CircularProgressbar value={percentageUrl} text={`${percentageUrl}%`} />
-      <p className="name">Blocked Url</p>
+      <p className="name">URL bloquées</p>
     </Example> 
     <Example>
       <CircularProgressbar value={percentageMail} text={`${percentageMail}%`} />
-      <p className="name">Blocked Email</p>
+      <p className="name">Adresses mail bloquées</p>
     </Example>  
   </div>
 );

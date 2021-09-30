@@ -8,7 +8,7 @@ export default function HomeLogo() {
                 <img href="/" alt="BeeBot" src="/assets/img/beebot_logo_home.png" />
             </a>
             <p>
-                A platform bot to secure your exchanges.
+                Le bot parfait pour sécuriser vos échanges !
             </p>
         </LogoHome>
     );

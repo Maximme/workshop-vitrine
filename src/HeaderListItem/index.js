@@ -4,14 +4,14 @@ import { List } from "./styles";
 
 const links = [
   {
-    name: "Metrics",
-    url: "#metric",
-    id: "metric",
-  },
-  {
-    name: "What is BeeBot ?",
+    name: "Qu'est-ce que BeeBot ?",
     url: "#weare",
     id: "weare",
+  },
+  {
+    name: "Quelques statistiques",
+    url: "#metric",
+    id: "metric",
   },
 ];
 

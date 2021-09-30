@@ -11,7 +11,7 @@ export default function WeAre() {
         </p>
         <p>
         C'est un bot sympatique permettant de sécuriser les échanges sur les boîtes de messagerie instantané.
-        <br/>Sa facilité d'utilisation est déconcertante ! Envoyé simplement une adresse mail, un Url ou un fichier, et notre petite guèpe l'analysera pour vous.
+        <br/>Sa facilité d'utilisation est déconcertante ! Envoyez simplement une adresse mail, une URL ou un fichier, et notre petite abeille l'analysera pour vous !
         <br/><br/> Un échange malveillant et BeeBot ne manquera pas de vous faire une piqure de rappel. 
         <br/>BeeBot votre meilleur ami pour butiner en paix !
         </p>
