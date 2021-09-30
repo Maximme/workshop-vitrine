@@ -5,11 +5,9 @@ import { render } from "react-dom";
 import {CircularProgressbar} from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
 
-const percentageFile = 66;
-const percentageUrl = 24;
-const percentageMail = 18;
-
-
+const percentageFile = 59;
+const percentageUrl = 5;
+const percentageMail = 47;
 
 const Donut = () => (
   <div style={{display:"flex", alignItems: "center", justifyContent: "center" }}>
