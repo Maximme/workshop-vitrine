@@ -35,6 +35,7 @@ p {
 .dataviz {
   display: flex;
   align-items: center;
+  flex-direction: column;
 
 }
 

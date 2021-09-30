@@ -6,8 +6,6 @@ import Welcome from "../Welcome/index.js";
 import Waver from "../Waver/index.js";
 import WeAre from "../WeAre/index.js";
 import Metric from "../Metric/index.js";
-import Donut from "../Donut/index.js";
-
 
 
 export default function App() {
@@ -18,7 +16,6 @@ export default function App() {
       <Waver />
       <WeAre />
       <Metric />
-      <Donut />
 
 
 

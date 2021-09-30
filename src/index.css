@@ -12,6 +12,18 @@ body {
   background-attachment: fixed;
 }
 
+.CircularProgressbar .CircularProgressbar-trail {
+  stroke: #654377 !important;
+}
+
+.CircularProgressbar .CircularProgressbar-path {
+  stroke: #fffde7 !important;
+}
+
+.CircularProgressbar .CircularProgressbar-text {
+  fill: #fffde7 !important;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
