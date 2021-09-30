@@ -1,4 +1,3 @@
-import { identity } from "ramda";
 import React from "react";
 import {Link} from 'react-scroll';
 import { List } from "./styles";
@@ -6,7 +5,8 @@ import { List } from "./styles";
 const links = [
   {
     name: "Metrics",
-    url: "#1",
+    url: "#metric",
+    id: "metric",
   },
   {
     name: "What is BeeBot ?",
