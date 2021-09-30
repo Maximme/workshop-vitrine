@@ -9,7 +9,7 @@ export default function Metric() {
           Quelques statisques
         </h2>
         <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        On s'efforce de récolter des données à des fins d'amélioration, mais aussi dans un objectif pédagogique. Grâce aux métrics, vous vous rendrez compte que toute fleur n'est pas bonne à butiner !
         </p>
         <div className="dataviz">
         <Donut />

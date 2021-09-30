@@ -10,7 +10,7 @@ export const WeAreContainer = styled.div`
     align-items: center;
     justify-content: center;
     background-image: url('assets/img/3260107.jpg');
-    background-size: 150%;
+    background-size: 100%;
 
 div {
     display: flex;
